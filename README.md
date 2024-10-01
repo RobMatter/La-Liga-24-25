@@ -8,14 +8,17 @@ Diseñada para Android en Java.
 
 
 ## Capturas
+Inicio
+ <img src="app/src/main/capturas/Captura1.png"  width="100" height="150">
 
-![Inicio](app/src/main/capturas/Captura1.png  width="100" height="150")
+Lista de Equipos
+ <img src="app/src/main/capturas/Captura2.png"  width="100" height="150">
 
-![Lista de Equipos](app/src/main/capturas/Captura2.png  width="100" height="150")
+Detalle de Equipo 1
+ <img src="app/src/main/capturas/Captura3.png"  width="100" height="150">
 
-![Detalle de Equipo 1](app/src/main/capturas/Captura3.png  width="100" height="150")
-
-![Detalle de Equipo 2](app/src/main/capturas/Captura4.png  width="100" height="150")
+Detalle de Equipo 2
+ <img src="app/src/main/capturas/Captura4.png"  width="100" height="150">
 
 
 
