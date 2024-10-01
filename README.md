@@ -16,7 +16,7 @@ Lista de Equipos
 
 Detalle de Equipo 1
 
- <img src="app/src/main/capturas/Captura3.png"  width="250">
+ <img src="app/src/main/capturas/Captura5.png"  width="250">
 
 Detalle de Equipo 2
 
