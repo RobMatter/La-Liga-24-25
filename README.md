@@ -14,6 +14,10 @@ Lista de Equipos
 
  <img src="app/src/main/capturas/Captura2.png"  width="250">
 
+Lista de Equipos 2
+
+ <img src="app/src/main/capturas/Captura3.png"  width="250">
+
 Detalle de Equipo 1
 
  <img src="app/src/main/capturas/Captura5.png"  width="250">
