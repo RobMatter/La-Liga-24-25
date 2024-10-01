@@ -9,13 +9,13 @@ Diseñada para Android en Java.
 
 ## Capturas
 
-![Inicio](capturas/Captura1.png)
+![Inicio](app/src/main/capturas/Captura1.png)
 
-![Lista de Equipos](capturas/Captura2.png)
+![Lista de Equipos](app/src/main/capturas/Captura2.png)
 
-![Detalle de Equipo 1](capturas/Captura3.png)
+![Detalle de Equipo 1](app/src/main/capturas/Captura3.png)
 
-![Detalle de Equipo 2](capturas/Captura4.png)
+![Detalle de Equipo 2](app/src/main/capturas/Captura4.png)
 
 
 
