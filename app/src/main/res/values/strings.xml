@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Liga IA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="autor">Creado por: Roberto Mateos</string>
+
+    <string name="textoBoton">Iniciar</string>
+    <string name="fragmentoInicial">Liga EA Sports</string>
+    <string name="fragmentoSegundo">Equipo</string>
+    <string name="texto_equipos">1ª División</string>
+    <string name="text1">Nombre:</string>
+    <string name="text2">Estadio:</string>
+    <string name="text3">Capacidad:</string>
+    <string name="text4">Fundación:</string>
+
+
+</resources>
