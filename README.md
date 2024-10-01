@@ -12,13 +12,13 @@ Inicio
  <img src="app/src/main/capturas/Captura1.png"  width="250">
 
 Lista de Equipos
- <img src="app/src/main/capturas/Captura2.png"  width="100" height="250" >
+ <img src="app/src/main/capturas/Captura2.png"  width="250">
 
 Detalle de Equipo 1
- <img src="app/src/main/capturas/Captura3.png"  width="100" height="250">
+ <img src="app/src/main/capturas/Captura3.png"  width="250">
 
 Detalle de Equipo 2
- <img src="app/src/main/capturas/Captura4.png"  width="100" height="250">
+ <img src="app/src/main/capturas/Captura4.png"  width="250">
 
 
 
