@@ -37,7 +37,7 @@ Detalle de Equipo 2
 - Proyecto **en construcción.**
 - **Próximas actualizaciones:** 
 - Ampliación de funciones.
-- Almacenamiento en base de datos SQLite, MySQL o Oracle Database (añadiendo jugadores de cada equipo). 
+- Almacenamiento en base de datos SQLite, MySQL o Oracle Database. 
 - Cambios y mejoras en la funcionalidad. 
 - Revisión de errores.
 
